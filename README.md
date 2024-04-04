@@ -4,6 +4,7 @@
 ## 系统运行由XPC内核支持
 ##### XPC OS CONTROL(XOSC)由XPC、Read、Output、Pack（Mod、Ware）、Control、Datapack组成，他们为Programs（.xpcprog）提供支撑运行服务，其中最关键的是XPC，XPC读取Programs发送给XOSC的指令做出决定并给Programs发送控制流以运行这个指令，XPC中默认提供XPC语言包，使得程序运行得到良好的支撑，并给使用该系统进行开发的开发人员提供良好的开发环境
 ###### 哪个开发人员能抗拒一个内置编程语言的开发环境呢？
+##### XPC语言仓库地址：github.com/xylcsstudio-github/XPC
 #####
 ## TAFS文件系统
 ##### TAFS（Three Aeras File System）由三个区构成 分别为：
