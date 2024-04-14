@@ -24,6 +24,7 @@
 ## 联系我们
 ##### Email：xylcsstudio@outlookcom
 ##### QQ：822415187
+##### Discord：https://discord.gg/caab2VGue2
 #####
 ## 加入我们的开发团队
 ##### QQ群：347710586
